@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Danielauler/danielauler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on embedded system with Python, C, C++, and in FrontEnd project with VueJS
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on Python and JS projects
@@ -11,4 +8,3 @@
 - 📫 How to reach me: danielauler7@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play CSGO
--->
